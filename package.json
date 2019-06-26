@@ -1,0 +1,29 @@
+{
+  "name": "adc-propertypro-lite",
+  "version": "1.0.0",
+  "description": "Create a platform that allows users to create/or search properties for sale or rent",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstwagir/ADC-PropertyPro-lite.git"
+  },
+  "author": "Shimwa Blaise Pascal Twagirayezu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bstwagir/ADC-PropertyPro-lite/issues"
+  },
+  "homepage": "https://github.com/bstwagir/ADC-PropertyPro-lite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "mocha": "^6.1.4"
+  }
+}
